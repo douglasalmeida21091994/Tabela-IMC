@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+
+@media screen and (max-width: 480px) {
+    
+    body {
+        height: 100%;        
+    }
+
+    .container {
+        height: 100%;
+    }
+}
