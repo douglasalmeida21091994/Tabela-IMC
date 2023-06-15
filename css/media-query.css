@@ -6,15 +6,11 @@
     body {
         height: 100vh;
         padding: 0px 20px;
-        background-image: linear-gradient(45deg, black, blue, black);
-        
-        display: flex;
-        align-items: center;
-        justify-content: center;
+        background-image: linear-gradient(45deg, black, blue, black);      
     }
 
     .container {
         box-shadow: none;
-        height: 630px;
+        height: 600px;
     }
 }
