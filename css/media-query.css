@@ -11,7 +11,10 @@
 
     .container {
         box-shadow: none;
-        height: 600px;
+        height: 600px;        
+    }
+
+    #formulario {
         width: 96%;
         height: 350px;
     }
